@@ -140,6 +140,6 @@ quickSms.getDeliveryReport("45795")
    limitations under the License.
 ```
 
-### Contributing to Shutdown
+### Contributing to QuickSms
 All pull requests are welcome, make sure to follow the [contribution guidelines](CONTRIBUTING.md)
 when you submit pull request.
