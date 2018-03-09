@@ -43,5 +43,7 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
     implementation 'com.android.support:design:27.1.0'
 
-    implementation project(path: ':quicksms')
+//    implementation project(path: ':quicksms')
+    implementation 'com.emmanuelkehinde:quicksms:1.0.0'
+
 }
